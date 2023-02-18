@@ -7,7 +7,7 @@ body{
   background-size:cover;
   background-attachment:scroll;
   background-position:relative;
-  background-repeat:repeat;
+  background-repeat:no-repeat;
   
 }
 p{
