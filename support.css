@@ -6,8 +6,7 @@ body{
   background-image: url("images/candles.jpg");
   background-size:cover;
   background-attachment:scroll;
-  background-position:relative;
-  background-repeat:no-repeat;
+  background-position:absolute;
   
 }
 p{
